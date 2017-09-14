@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="edit_hint">Nhập năm</string>
+    <string name="btn_name">Tra cứu</string>
+</resources>
